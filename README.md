@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-16 · [Locking Down Same-UID Memory Access with Yama `ptrace_scope`](2026/11/16-yama-ptrace-scope.md) · Linux internals & hardening
 - 2026-11-15 · [Keeping Secrets Out of Terraform State with Write-Only Arguments](2026/11/15-terraform-write-only-arguments.md) · Cloud & infrastructure-as-code
 - 2026-11-14 · [Short-Lived OpenSSH User Certificates](2026/11/14-openssh-user-certificates.md) · Cryptography, authentication & identity
 - 2026-11-13 · [Pod User Namespaces with `hostUsers: false`](2026/11/13-kubernetes-user-namespaces-hostusers-false.md) · Containers & Kubernetes security
