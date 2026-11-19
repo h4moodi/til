@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-19 · [LLMNR and NBT-NS Poisoning: Spotting and Killing the Fallback](2026/11/19-llmnr-nbtns-poisoning.md) · Networking & protocols
 - 2026-11-18 · [Dependency Cooldowns with `minimumReleaseAge`](2026/11/18-dependency-cooldowns-minimum-release-age.md) · CI/CD & software supply-chain security
 - 2026-11-17 · [Detecting Server-Side Prototype Pollution with a Status Code Override](2026/11/17-server-side-prototype-pollution-status-override.md) · Web application vulnerabilities & exploitation
 - 2026-11-16 · [Locking Down Same-UID Memory Access with Yama `ptrace_scope`](2026/11/16-yama-ptrace-scope.md) · Linux internals & hardening
