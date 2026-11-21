@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-21 · [Sender-Constraining OAuth Tokens with DPoP](2026/11/21-oauth-dpop-sender-constrained-tokens.md) · Cryptography, authentication & identity
 - 2026-11-20 · [Rolling Out Pod Security Admission with Server-Side Dry-Run](2026/11/20-pod-security-admission-dry-run.md) · Containers & Kubernetes security
 - 2026-11-19 · [LLMNR and NBT-NS Poisoning: Spotting and Killing the Fallback](2026/11/19-llmnr-nbtns-poisoning.md) · Networking & protocols
 - 2026-11-18 · [Dependency Cooldowns with `minimumReleaseAge`](2026/11/18-dependency-cooldowns-minimum-release-age.md) · CI/CD & software supply-chain security
