@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-22 · [Enforcing IMDSv2 by Default at the Account Level](2026/11/22-enforce-imdsv2-account-defaults.md) · Cloud & infrastructure-as-code
 - 2026-11-21 · [Sender-Constraining OAuth Tokens with DPoP](2026/11/21-oauth-dpop-sender-constrained-tokens.md) · Cryptography, authentication & identity
 - 2026-11-20 · [Rolling Out Pod Security Admission with Server-Side Dry-Run](2026/11/20-pod-security-admission-dry-run.md) · Containers & Kubernetes security
 - 2026-11-19 · [LLMNR and NBT-NS Poisoning: Spotting and Killing the Fallback](2026/11/19-llmnr-nbtns-poisoning.md) · Networking & protocols
