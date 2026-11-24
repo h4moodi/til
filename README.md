@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-24 · [Client-Side Path Traversal (CSPT) as a CSRF Primitive](2026/11/24-client-side-path-traversal-cspt2csrf.md) · Web application vulnerabilities & exploitation
 - 2026-11-23 · [Shrinking Kernel Attack Surface with `kernel.io_uring_disabled`](2026/11/23-io-uring-disabled-sysctl.md) · Linux internals & hardening
 - 2026-11-22 · [Enforcing IMDSv2 by Default at the Account Level](2026/11/22-enforce-imdsv2-account-defaults.md) · Cloud & infrastructure-as-code
 - 2026-11-21 · [Sender-Constraining OAuth Tokens with DPoP](2026/11/21-oauth-dpop-sender-constrained-tokens.md) · Cryptography, authentication & identity
