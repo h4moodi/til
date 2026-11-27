@@ -8,6 +8,7 @@ Each entry covers what the thing is, a minimal working example, when you'd reach
 
 <!-- entries are added below, newest first -->
 
+- 2026-11-27 · [Blocking `hostPath` Volumes with a ValidatingAdmissionPolicy](2026/11/27-validating-admission-policy-block-hostpath.md) · Containers & Kubernetes security
 - 2026-11-26 · [Blocking DNS Rebinding at the Resolver](2026/11/26-dns-rebinding-resolver-filtering.md) · Networking & protocols
 - 2026-11-25 · [Pwn Requests and the New `pull_request_target` Guardrails](2026/11/25-pull-request-target-guardrails.md) · CI/CD & software supply-chain security
 - 2026-11-24 · [Client-Side Path Traversal (CSPT) as a CSRF Primitive](2026/11/24-client-side-path-traversal-cspt2csrf.md) · Web application vulnerabilities & exploitation
